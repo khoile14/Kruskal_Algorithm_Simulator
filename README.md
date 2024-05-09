@@ -17,4 +17,6 @@ Compile the Java Files: Start by compiling the provided Java files. These includ
 - `Kruskal310`: Handles all the options of the simulator.
 - `SimGUI`: Handles all the graphical elements of the simulator.
 
+A subset of JUNG (Java Universal Network/Graph Framework) library will be needed, provided within the project under the name `lib.jar`
+
 Run the Example: Once you've compiled the Java files, run the provided `SimGUI.java` file. This file contains a small example that demonstrates how to use the classes implemented in this project.
