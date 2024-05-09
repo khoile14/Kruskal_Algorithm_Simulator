@@ -1,7 +1,3 @@
-//TODO: Implement the required methods and add JavaDoc as needed.
-//Remember: Do NOT add any additional instance or class variables (local variables are ok)
-//and do NOT alter any provided methods or change any method signatures!
-
 import edu.uci.ics.jung.graph.Graph;
 import edu.uci.ics.jung.graph.util.EdgeType;
 import edu.uci.ics.jung.graph.util.Pair;

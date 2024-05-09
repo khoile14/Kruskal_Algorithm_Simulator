@@ -1,8 +1,3 @@
-//TODO: None!
-
-//This class implements java.util.Set interface. 
-//Check Java API of Set for description of methods implemented.
-
 import java.util.Collection;
 import java.util.Set;
 import java.util.Iterator;

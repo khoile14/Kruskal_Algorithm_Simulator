@@ -1,15 +1,3 @@
-// Binary Search Tree class From your textbook (Weiss)
-
-//TODO:
-//  (1) Update this code to meet the code style and JavaDoc style requirements.
-//			Why? So that you get experience with the code for a binary search tree!
-//			Also, this happens a lot in industry (updating old code
-//			to meet your new standards). 
-//  (2) Change remove() to be "predecessor replacement".
-//  (3) Implement three more methods needed by other classes of this project:
-//		size(),  toString(), and values(). Make sure to add JavaDoc for those. 
-
-
 import java.util.LinkedList; //only for the return of values(), do not use it anywhere else
 
 /**

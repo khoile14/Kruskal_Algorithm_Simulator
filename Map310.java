@@ -1,6 +1,3 @@
-//TODO:
-// -Implement method keySet() and values(). Make sure to add JavaDoc for them.
-
 import java.util.Map;
 import java.util.Set;
 import java.util.Iterator;
